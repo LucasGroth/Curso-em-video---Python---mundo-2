@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="388a7613-6f4f-4e71-83d9-4b67405452e1" name="Changes" comment="Resolução dos exercícios da aula 12- Desafio 40 a 45.">
+    <list default="true" id="388a7613-6f4f-4e71-83d9-4b67405452e1" name="Changes" comment="Ajustes dos exercícios da aula 12.">
+      <change afterPath="$PROJECT_DIR$/AULA 03 - ESTRUTURAS DE REPETIÇÕES.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DESAFIO 46 - CONTAGEM REGRESSIVA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 37 - AULA 2 - BASE DE CONVERSÃO.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 37 - AULA 2 - BASE DE CONVERSÃO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 41 - CLASSIFICAÇÃO DE ATLETAS.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 41 - CLASSIFICAÇÃO DE ATLETAS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 45 - JOKENPO.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 45 - JOKENPO.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,25 +42,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.DESAFIO 36 - AULA 2 -CONDIÇÕES ANINHADAS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DESAFIO 37 - AULA 2 - BASE DE CONVERSÃO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DESAFIO 38 - COMPARADOR DE NUMEROS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DESAFIO 39 - VERIFICADOR ALISTAMENTO MILITAR.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DESAFIO 42 - ANALISANDO TRIANGULOS V2.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DESAFIO 43 - INDICE DE MASSA MUSCULAR.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DESAFIO 44 - GERENCIADOR DE PAGAMENTOS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DESAFIO 45 - JOKENPO.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.DESAFIO 36 - AULA 2 -CONDIÇÕES ANINHADAS.executor": "Run",
+    "Python.DESAFIO 37 - AULA 2 - BASE DE CONVERSÃO.executor": "Run",
+    "Python.DESAFIO 38 - COMPARADOR DE NUMEROS.executor": "Run",
+    "Python.DESAFIO 39 - VERIFICADOR ALISTAMENTO MILITAR.executor": "Run",
+    "Python.DESAFIO 42 - ANALISANDO TRIANGULOS V2.0.executor": "Run",
+    "Python.DESAFIO 43 - INDICE DE MASSA MUSCULAR.executor": "Run",
+    "Python.DESAFIO 44 - GERENCIADOR DE PAGAMENTOS.executor": "Run",
+    "Python.DESAFIO 45 - JOKENPO.executor": "Run",
+    "Python.DESAFIO 46 - CONTAGEM REGRESSIVA.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="DESAFIO 36 - AULA 2 -CONDIÇÕES ANINHADAS" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonProject" />
@@ -256,6 +263,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="DESAFIO 46 - CONTAGEM REGRESSIVA" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (PyCharmMiscProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DESAFIO 46 - CONTAGEM REGRESSIVA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -274,7 +306,7 @@
       <updated>1773929090882</updated>
       <workItem from="1774031765799" duration="3821000" />
       <workItem from="1774285073873" duration="5946000" />
-      <workItem from="1774350684116" duration="3507000" />
+      <workItem from="1774350684116" duration="5281000" />
     </task>
     <task id="LOCAL-00001" summary="resolvendo exercícios 36 a 39">
       <option name="closed" value="true" />
@@ -292,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774290289992</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ajustes dos exercícios da aula 12.">
+      <option name="closed" value="true" />
+      <created>1774356961635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774356961635</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,10 +341,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="resolvendo exercícios 36 a 39" />
     <MESSAGE value="Resolução dos exercícios da aula 12- Desafio 40 a 45." />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolução dos exercícios da aula 12- Desafio 40 a 45." />
+    <MESSAGE value="Ajustes dos exercícios da aula 12." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustes dos exercícios da aula 12." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_42___ANALISANDO_TRIANGULOS_V2_0.coverage" NAME="DESAFIO 42 - ANALISANDO TRIANGULOS V2.0 Coverage Results" MODIFIED="1774287845333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_46___CONTAGEM_REGRESSIVA.coverage" NAME="DESAFIO 46 - CONTAGEM REGRESSIVA Coverage Results" MODIFIED="1774359326116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_44___GERENCIADOR_DE_PAGAMENTOS.coverage" NAME="DESAFIO 44 - GERENCIADOR DE PAGAMENTOS Coverage Results" MODIFIED="1774288978768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_37___AULA_2___BASE_DE_CONVERSÃO.coverage" NAME="DESAFIO 37 - AULA 2 - BASE DE CONVERSÃO Coverage Results" MODIFIED="1774351042713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_38___COMPARADOR_DE_NUMEROS.coverage" NAME="DESAFIO 38 - COMPARADOR DE NUMEROS Coverage Results" MODIFIED="1774034713666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
