@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="388a7613-6f4f-4e71-83d9-4b67405452e1" name="Changes" comment="EXERCÍCIO 46 - CONTAGEM REGRESSIVA - LAÇO FOR">
-      <change afterPath="$PROJECT_DIR$/DESAFIO 47 - IDENTIFICADOR DE PARES EM INTERVALO.py" afterDir="false" />
+    <list default="true" id="388a7613-6f4f-4e71-83d9-4b67405452e1" name="Changes" comment="EXERCÍCIO 47 - MOSTRADOR DE NUMEROS PARES DE UM INTERVALO">
+      <change afterPath="$PROJECT_DIR$/DESAFIO 48 - SOMA ÍMPARES MULTIPLOS DE 3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "Python.DESAFIO 45 - JOKENPO.executor": "Run",
     "Python.DESAFIO 46 - CONTAGEM REGRESSIVA.executor": "Run",
     "Python.DESAFIO 47 - IDENTIFICADOR DE PARES EM INTERVALO.executor": "Run",
+    "Python.DESAFIO 48 - SOMA ÍMPARES MULTIPLOS DE 3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -313,6 +314,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="DESAFIO 48 - SOMA ÍMPARES MULTIPLOS DE 3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (PyCharmMiscProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DESAFIO 48 - SOMA ÍMPARES MULTIPLOS DE 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -331,7 +357,7 @@
       <updated>1773929090882</updated>
       <workItem from="1774031765799" duration="3821000" />
       <workItem from="1774285073873" duration="5946000" />
-      <workItem from="1774350684116" duration="5700000" />
+      <workItem from="1774350684116" duration="6424000" />
     </task>
     <task id="LOCAL-00001" summary="resolvendo exercícios 36 a 39">
       <option name="closed" value="true" />
@@ -365,7 +391,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774359617578</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="EXERCÍCIO 47 - MOSTRADOR DE NUMEROS PARES DE UM INTERVALO">
+      <option name="closed" value="true" />
+      <created>1774359917858</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774359917858</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +410,8 @@
     <MESSAGE value="Resolução dos exercícios da aula 12- Desafio 40 a 45." />
     <MESSAGE value="Ajustes dos exercícios da aula 12." />
     <MESSAGE value="EXERCÍCIO 46 - CONTAGEM REGRESSIVA - LAÇO FOR" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXERCÍCIO 46 - CONTAGEM REGRESSIVA - LAÇO FOR" />
+    <MESSAGE value="EXERCÍCIO 47 - MOSTRADOR DE NUMEROS PARES DE UM INTERVALO" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXERCÍCIO 47 - MOSTRADOR DE NUMEROS PARES DE UM INTERVALO" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_42___ANALISANDO_TRIANGULOS_V2_0.coverage" NAME="DESAFIO 42 - ANALISANDO TRIANGULOS V2.0 Coverage Results" MODIFIED="1774287845333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -388,6 +423,7 @@
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_43___INDICE_DE_MASSA_MUSCULAR.coverage" NAME="DESAFIO 43 - INDICE DE MASSA MUSCULAR Coverage Results" MODIFIED="1774287384553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_45___JOKENPO.coverage" NAME="DESAFIO 45 - JOKENPO Coverage Results" MODIFIED="1774290255273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_39___VERIFICADOR_ALISTAMENTO_MILITAR.coverage" NAME="DESAFIO 39 - VERIFICADOR ALISTAMENTO MILITAR Coverage Results" MODIFIED="1774035529868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_47___IDENTIFICADOR_DE_PARES_EM_INTERVALO.coverage" NAME="DESAFIO 47 - IDENTIFICADOR DE PARES EM INTERVALO Coverage Results" MODIFIED="1774359748943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_47___IDENTIFICADOR_DE_PARES_EM_INTERVALO.coverage" NAME="DESAFIO 47 - IDENTIFICADOR DE PARES EM INTERVALO Coverage Results" MODIFIED="1774359834501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_48___SOMA_ÍMPARES_MULTIPLOS_DE_3.coverage" NAME="DESAFIO 48 - SOMA ÍMPARES MULTIPLOS DE 3 Coverage Results" MODIFIED="1774360440656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
