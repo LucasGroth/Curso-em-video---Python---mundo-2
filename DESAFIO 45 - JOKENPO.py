@@ -2,7 +2,7 @@
 from random import choice
 lista=['pedra','papel','tesoura']
 cpu=choice(lista)
-player=(input('Vamos jogar JOKENPÔ ! \n Eu já fiz minha escolha, qual é a sua ?')).strip().lower()
+player=(input('Vamos jogar JOKENPÔ ! \n Eu já fiz minha escolha, qual é a sua ? pedra ,papel ou tesoura ?')).strip().lower()
 if cpu==player:
     print('Empatamos!')
 elif cpu=='pedra' and player=='papel' or cpu=='papel' and player =='tesoura' or cpu=='tesoura' and player=='pedra':
