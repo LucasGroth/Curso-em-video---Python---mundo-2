@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="388a7613-6f4f-4e71-83d9-4b67405452e1" name="Changes" comment="EXERCÍCIO 50 - SOMA DE NUMEROS PARES INFORMADOS">
+    <list default="true" id="388a7613-6f4f-4e71-83d9-4b67405452e1" name="Changes" comment="EXERCÍCIO 51 - PROGRESSÃO ARITMÉTICA">
+      <change afterPath="$PROJECT_DIR$/DESAFIO 52 - IDENTIFICADOR DE NUMERO PRIMO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 51 - Progressão Aritmética.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 51 - Progressão Aritmética.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,7 @@
     "Python.DESAFIO 49 - TABOADA.executor": "Run",
     "Python.DESAFIO 50 - SOMA DOS PARES.executor": "Run",
     "Python.DESAFIO 51 - Progressão Aritmética.executor": "Run",
+    "Python.DESAFIO 52 - IDENTIFICADOR DE NUMERO PRIMO.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -417,6 +418,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="DESAFIO 52 - IDENTIFICADOR DE NUMERO PRIMO" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (PyCharmMiscProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DESAFIO 52 - IDENTIFICADOR DE NUMERO PRIMO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -436,7 +462,7 @@
       <workItem from="1774031765799" duration="3821000" />
       <workItem from="1774285073873" duration="5946000" />
       <workItem from="1774350684116" duration="8448000" />
-      <workItem from="1774369589041" duration="2329000" />
+      <workItem from="1774369589041" duration="4079000" />
     </task>
     <task id="LOCAL-00001" summary="resolvendo exercícios 36 a 39">
       <option name="closed" value="true" />
@@ -510,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774370295836</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="EXERCÍCIO 51 - PROGRESSÃO ARITMÉTICA">
+      <option name="closed" value="true" />
+      <created>1774371962552</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774371962552</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,13 +559,15 @@
     <MESSAGE value="EXERCÍCIO 48 - SOMA MULTIPLOS DE 3 EM INTERVALO" />
     <MESSAGE value="EXERCÍCIO 49 - TABOADA COM FOR" />
     <MESSAGE value="EXERCÍCIO 50 - SOMA DE NUMEROS PARES INFORMADOS" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXERCÍCIO 50 - SOMA DE NUMEROS PARES INFORMADOS" />
+    <MESSAGE value="EXERCÍCIO 51 - PROGRESSÃO ARITMÉTICA" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXERCÍCIO 51 - PROGRESSÃO ARITMÉTICA" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_42___ANALISANDO_TRIANGULOS_V2_0.coverage" NAME="DESAFIO 42 - ANALISANDO TRIANGULOS V2.0 Coverage Results" MODIFIED="1774287845333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_46___CONTAGEM_REGRESSIVA.coverage" NAME="DESAFIO 46 - CONTAGEM REGRESSIVA Coverage Results" MODIFIED="1774359575623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_38___COMPARADOR_DE_NUMEROS.coverage" NAME="DESAFIO 38 - COMPARADOR DE NUMEROS Coverage Results" MODIFIED="1774034713666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_51___Progressão_Aritmética.coverage" NAME="DESAFIO 51 - Progressão Aritmética Coverage Results" MODIFIED="1774371641807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_51___Progressão_Aritmética.coverage" NAME="DESAFIO 51 - Progressão Aritmética Coverage Results" MODIFIED="1774372180887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_52___IDENTIFICADOR_DE_NUMERO_PRIMO.coverage" NAME="DESAFIO 52 - IDENTIFICADOR DE NUMERO PRIMO Coverage Results" MODIFIED="1774373700775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_36___AULA_2__CONDIÇÕES_ANINHADAS.coverage" NAME="DESAFIO 36 - AULA 2 -CONDIÇÕES ANINHADAS Coverage Results" MODIFIED="1774351026505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_49___TABOADA.coverage" NAME="DESAFIO 49 - TABOADA Coverage Results" MODIFIED="1774360979187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_em_video___Python___mundo_2$DESAFIO_50___SOMA_DOS_PARES.coverage" NAME="DESAFIO 50 - SOMA DOS PARES Coverage Results" MODIFIED="1774370132022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
